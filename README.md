@@ -1,4 +1,4 @@
-# Fast blog
+# Fast blog!
 
 ## CLI Commands
 
